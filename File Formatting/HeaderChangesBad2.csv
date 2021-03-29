@@ -1,0 +1,46 @@
+﻿start,,
+Instructor_ID,INSTRUCTOR_ID,Ins
+TERM,TYT_TERM,Ter
+YEAR,TYY_TERM,yr
+COURSE_NAME,TITLE,crse
+COURSE_PREFIX,COURSEPRE,crse pre
+COURSE_NUMBER,COURSENUM,crse num
+COURSE_RECORD_NUMBER,SECTION,crse sec
+OFFICIAL_ENROLLMENT_NUMBER,ENROLL,enroll
+CREDIT_HOURS,CHOURS,cred hours
+DELIVERY_MODE,DELIVERY_MODE,
+stop,,
+start,,
+Lab with Credit - Undergrad,12 Lab Credit UG,
+Traditional UG (0% online),00A Traditional UG,
+Arranged Graduate,08 Arranged GR,
+Blended GR (50 to <75% online),23A Blended GR,
+"Partial UG (>0%, <50% online)",30A Partial UG,
+Blended UG (50 to <75% online),22A Blended UG,
+Interactive Video - Undergrad,14 ITV UG,
+Lab with No Credit,03 Lab No Credit,
+Virtual Class Meeting UG,34 VCM UG,
+Virtual Class Meeting GR,35 VCM GR,
+Online UG (75% or more online),20A Online UG,
+Online GR (75% or more online),21A Online GR,
+Arranged Undergraduate,04 Arranged UG,
+Traditional GR (0% online),01A Traditional GR,
+Internship - Graduate,17 Internship GR,
+Arranged Music - Undergraduate,06 Arr Music UG,
+Zero Level,09 Zero Level,
+Interactive Video - Graduate,15 ITV GR,
+"Partial GR (>0%, <50% online)",31A Partial GR,
+Clinical - Graduate,19 Clinical GR,
+Clinical - Undergraduate,18 Clinical UG,
+Arranged Music No Credit,11 Arr Music No Credit,
+Lab with Credit - Graduate,13 Lab Credit GR,
+Internship - Undergraduate,16 Internship UG,
+CEL UG (75% or more online),24A CEL UG,
+CEL GR (75% or more online),25A CEL GR,
+CEL - Arranged - Undergraduate,28 CEL Arr UG,
+"CEL Partial UG (>0%, <50% online)",32A CEL Partial UG,
+"CEL Partial GR (>0%, <50% online)",33A CEL Partial GR,
+CEL Internship - Undergraduate,29 CEL Internship UG,
+CEL Blended GR (50 to <75% online),27A CEL Blended GR,
+CEL Blended UG (50 to <75% online),26A CEL Blended UG,
+stop,,

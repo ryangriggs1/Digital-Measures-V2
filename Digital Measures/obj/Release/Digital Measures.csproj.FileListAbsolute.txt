@@ -1,0 +1,23 @@
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\Digital Measures.exe.config
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\Digital Measures.exe.manifest
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\Digital Measures.application
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\Digital Measures.exe
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\Digital Measures.pdb
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\CsvHelper.dll
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\CsvHelper.xml
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital Measures.csprojAssemblyReference.cache
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital_Measures.Form1.resources
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital_Measures.Properties.Resources.resources
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital Measures.csproj.GenerateResource.cache
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital Measures.csproj.CoreCompileInputs.cache
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital Measures.exe.manifest
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital Measures.application
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital Measures.csproj.CopyComplete
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital Measures.exe
+C:\Users\ryang\Desktop\software engineering\Digital Measures\Digital Measures\obj\Release\Digital Measures.pdb
