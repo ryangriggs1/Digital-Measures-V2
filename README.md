@@ -9,4 +9,4 @@ V2 of my digital measures project allows the user to specify the required change
 * Click "Install"
 * The application is now installed 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details 
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ryangriggs1/Digital-Measures-V2/blob/main/LICENSE) file for details 
