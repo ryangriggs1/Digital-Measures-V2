@@ -8,5 +8,12 @@ V2 of my digital measures project allows the user to specify the required change
 * Run "setup.exe"
 * Click "Install"
 * The application is now installed 
+## Instructions
+* Either run the setup.exe and make an application or open up "Digital Measures.sln" in Visual Studio and hit the start button at the top of the screen.
+* First you'll want to click "Replacement Values" and select the csv file that holds your replacement values.
+* Next, click "Open File" and choose the file that has the values you want to replace.
+* After that, click "File Destination" and select the location as well as the name you want your file to be saved as.
+* Finally, hit "Convert Button" and wait for your file to be created.
+* Additionally, you can click "Clear" and convert more files or click "Done" and the applicaiton will close.
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ryangriggs1/Digital-Measures-V2/blob/main/LICENSE) file for details 
