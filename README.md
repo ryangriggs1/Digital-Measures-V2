@@ -1,4 +1,12 @@
 # Digital Measures V2
+## Table of Contents
+1. [Introduction](#Introduction)
+2. [UI](#Here-is-the-UI)
+3. [Program Running](#Program-running)
+4. [Installation](#Installation)
+5. [Instructions](#Instructions)
+6. [License](#License)
+## Introduction
 V2 of my digital measures project allows the user to specify the required changes that need to be applied to the file! This is a simple and easy to use csv converter that I made for the administrations office at my school. They can use this to convert the headers and the class names with a couple button presses as opposed to changing thousands of lines by hand.
 ### Here is the UI
 ![DigitalMeasuresSS](https://github.com/ryangriggs1/Digital-Measures-V2/blob/main/PNGandGIF/DigitalMeasuresSS.PNG)  
