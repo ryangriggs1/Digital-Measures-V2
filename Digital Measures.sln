@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital Measures", "Digital Measures\Digital Measures.csproj", "{5E099234-05CC-43C3-BB0F-E883AC785CC9}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Digital Setup", "Digital Setup\Digital Setup.vdproj", "{A06236A4-6411-4D74-A38E-E4E26C4C9357}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{5E099234-05CC-43C3-BB0F-E883AC785CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E099234-05CC-43C3-BB0F-E883AC785CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E099234-05CC-43C3-BB0F-E883AC785CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06236A4-6411-4D74-A38E-E4E26C4C9357}.Debug|Any CPU.ActiveCfg = Debug
+		{A06236A4-6411-4D74-A38E-E4E26C4C9357}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
