@@ -132,16 +132,6 @@ namespace Digital_Measures
                     {
                         for (int i = 0; i < wrongHeader.Count; i++)
                         {
-                            /*
-                            if (fileLine[i] == wrongHeader.Last())
-                            {//possibly the problem
-                                fileLine[i] = correctHeader[i] + "\n";
-                            }
-                            else if (fileLine[i] == s)
-                            {
-                                fileLine[i] = correctHeader[i];
-                            }
-                            */
                             if (fileLine[i] == s)
                             {
                                 fileLine[i] = correctHeader[i];
