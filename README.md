@@ -13,9 +13,10 @@ V2 of my digital measures project allows the user to specify the required change
 ### Program running
 ![running](https://github.com/ryangriggs1/Digital-Measures-V2/blob/main/PNGandGIF/running.gif)
 ### Installation
-* Run "setup.exe"
-* Click "Install"
-* The application is now installed 
+* Open the "Digital Setup" folder
+* Open the "Debug" folder
+* run "setup.exe"
+* The application should now installed. There should be a shorcut on the desktop called "DMv.2"
 ### Instructions
 * Either run the setup.exe and make an application or open up "Digital Measures.sln" in Visual Studio and hit the start button at the top of the screen.
 * First you'll want to click "Replacement Values" and select the csv file that holds your replacement values.
